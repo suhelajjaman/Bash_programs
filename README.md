@@ -1,2 +1,2 @@
 # Bash_programs
-Simple Bash Program (HTB haystack)
+Simple Bash Programs
